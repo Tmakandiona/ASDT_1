@@ -1,8 +1,8 @@
-# Name and aurname
+# Name and Surname
 Tanya Makandiona
-##Place of residence
+## Place of residence
 I stay in Warsaw, Zoliborz
-###Country of Birth
+### Country of Birth
 I was born in Zimbabwe
-####Interest in IT
+#### Interest in IT
 I enjoy cloud computing
