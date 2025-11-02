@@ -1,5 +1,5 @@
 # Name and Surname
-Tanya Makandiona
+My nam is Tanya Makandiona
 ## Place of residence
 I stay in Warsaw, Zoliborz
 ### Country of Birth
